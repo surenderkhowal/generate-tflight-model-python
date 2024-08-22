@@ -71,3 +71,7 @@ project_name/
             .
         )
 
+# Once you create model successfully you can use this model in android app
+# run android androidExample->TensorflowTest
+# add your model in  generate-tflight-model-python/androidExample/TensorFlowTest/app/src/main/assets
+# make sure your model name match with which used in PlasticClassifier.kt 
